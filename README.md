@@ -14,7 +14,7 @@ which maximizes the player’s performances.
   
 + **software/**
      - README
-          - § Installation (Requirements , etc)
+          - § Tool (Requirements , etc)
           - § Architecture (State-machine)
      - launch-train-goalkeeper.py 
      - launch-simulation.sh  
